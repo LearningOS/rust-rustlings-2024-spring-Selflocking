@@ -1,6 +1,10 @@
 ## 2024年春夏季操作系统训练营
 
+- 我的 rustlings：https://github.com/Selflocking/rustlings
+- classroom 链接：https://classroom.github.com/a/-WftLmvV
+- 排行榜：https://learningos.cn/rust-rustlings-2024-spring-ranking/
 
+## 以下是原 README
 
 第一阶段将通过Rustlings进行测试，请按照以下步骤进行练习：
 
